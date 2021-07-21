@@ -12,6 +12,7 @@ def clear():
         _ = system('clear')
 
 
+
 def display_board(board):
     clear()
     print()
